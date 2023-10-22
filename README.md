@@ -5,3 +5,8 @@
 <a href="https://docs.google.com/document/d/1Oxod1TkO1nouV4Y-o3AVrdED1agb5bw_wrn0i_apPY8/edit>
 Работа
 <a href="https://docs.google.com/spreadsheets/d/1jnodO14Lh8mpIwzpjDACpKqnBZu-wIgF9QB2N86_8Og/edit#gid=301786834>
+git remote add <repository_name> link
+git push origin <branch> 
+git push origin master 
+git push -u origin master
+git push
